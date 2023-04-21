@@ -90,11 +90,10 @@ c. Exploring correlation between the variables and the success factors
 ## Machine Learning
 *Random Forest Classifer*
 *Logistic Regression*
-*Neural Network*
 
 # Conclusion of the analytical methods
 *Machine Learning Comparisons*
-- 
+- Random 
 *Data Driven Insights*
 - 
 
@@ -102,7 +101,6 @@ c. Exploring correlation between the variables and the success factors
 - interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset), 
 - how to justify the suitability of a model based on readings from classification report
 - Logistic Regression model 
-- Neural Network model
 
 
 # References
