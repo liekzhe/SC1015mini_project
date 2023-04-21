@@ -10,7 +10,7 @@ Group : 1??
 ## Members:
 
 1. Wong Liek Zhe (U2220416D)
-2. Iain ()
+2. Iain (U2221382K)
 3. Tan Jie Ning, Jolynn (U2220577B)
 
 =============================================
@@ -47,7 +47,7 @@ c. Spilt 'release_date' to form column for 'month'
 d. 
 
 ## Basic Visualisation
-a. Used box plots, histograms, violin plots in visualising numeric variables : 'budget', 'runtime', 'profit', 'popularity'
+a. Used box plots, histograms, violin plots in visualising numeric variables : 'budget', 'timeline', 'profit', 'popularity'
 b. Used the GroupBy function to create a categorical bar plot of attribution against each categorical variable
 
 ## Explorator Data Analysis
