@@ -31,28 +31,61 @@ Group : 1??
 
 ============================================
 
-## 1. Problem Formulation
-**Our Dataset:** TMBD Movie Dataset .. on Kaggle
-**Our Question:** What conditions are needed to create the ultimate movie of all time?
+## Problem Formulation
+**Our Dataset:** [TMBD Movie Dataset](https://www.kaggle.com/datasets/successikuku/tmbd-movie-dataset)
+**Our Question:** What factors have the greatest influence on the success of a movie?
 
 **Success definition:** Determined by the profit and popularity of the movie
 
-**Rationale:** We believe that this dataset as well as the question we pose is very relevant to ............
+**Rationale:** To figure out what factors play a significant role in determining the success of a movie.
 
 
-## 2. Data Cleaning and Preparation
-a. Remove null/missing values within the dataset
-b. Keep significant columns: 'budget', 'cast', 'director', 'genres', 'production_companies', 'release_year', 'release_date', 'runtime'
-c. Spilt 'release_date' to form column for 'month'
-d. 
+## 1. Data Cleaning and Preparation
+In this section of the project, we prepped and cleaned the dataset to help us analyze our data better and also to help us use our data for the purposes of machine learning in the later sections.
 
-## Basic Visualisation
-a. Used box plots, histograms, violin plots in visualising numeric variables : 'budget', 'timeline', 'profit', 'popularity'
-b. Used the GroupBy function to create a categorical bar plot of attribution against each categorical variable
+a. We have filtered out the *factors* that we identified to have relevance to the *success* of a movie 
+b. Remove null/missing values within the dataset
+c. Splitting of data 
+d. One-hot encoding
+e. Pickle data
 
-## Explorator Data Analysis
-a. Plot a linear regression line and correlation matrix for numerical dataset against variables of success
-b. Explored bi-variate relationships with a scatter plot
+
+## 2. Exploratory Data Analysis
+Exploratory data analysis (EDA) is an approach to analyzing and summarizing data sets that involves visualizing and exploring the data to gain insights and identify patterns, trends, and outliers.<br>
+
+a. Used box plots, histograms, kde plots in visualising numeric factors: 'budget', 'runtime', 'profit', 'popularity'
+b. used barplots for categorical factors: 'genres', 'production_companies', 'director', 'casts', 'release_year', 'release_month'
+c. Explored correlation between the 2 success factors: 'popularity' and 'profit'
+
+
+## 3. Dimension Reduction
+Dimension reduction refers to the process of reducing the number of variables or features in a dataset while retaining as much relevant information as possible. The goal of dimension reduction is to simplify the dataset, make it more manageable, and reduce noise and redundancy in the data.<br>
+
+a. Comparing dependent vairables against success factors
+b. Removing noisy data to analyse data more efficiently
+
+## 4. Numerical Insights
+In this section, we will be analysing numerical factors that can influence the success of a movie and determine if it is an infuential factor <br>
+
+Machine learning models used are:
+Linear regression model <br>
+Random forest classification (utilising confusion matrix)
+
+a. Explored bi-variate relationships with a scatter plot
+b. Plot a linear regression line for numerical dataset against variables of success
+c. Visualising distribution through swarmplot 
+d. Random forest classification
+e. Optimisation through confusion matrix
+
+## 5. Categorical Insights
+In this section, we will be analysing categorical factors that can influence the success of a movie and determine if it is an infuential factor <br>
+
+Machine learning models used are:<br>
+
+a. Visualising the mean profit and popularity for each variable of the determining factors
+b. Identifying the top 10 variables of each factor
+c. Exploring correlation between the variables and the success factors
+
 
 ## Machine Learning
 *Random Forest Classifer*
@@ -73,7 +106,7 @@ b. Explored bi-variate relationships with a scatter plot
 
 
 # References
-whatt?????????
+
 
 
 
