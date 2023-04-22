@@ -54,13 +54,13 @@ b. used barplots for categorical factors: 'genres', 'production_companies', 'dir
 c. Explored correlation between the 2 success factors: 'popularity' and 'profit'<br>
 
 
-## 3. Dimension Reduction
+## <a href="https://github.com/liekzhe/SC1015proj/blob/main/3:%20dimension_reduction.ipynb">3. Dimension Reduction</a>
 Dimension reduction refers to the process of reducing the number of variables or features in a dataset while retaining as much relevant information as possible. The goal of dimension reduction is to simplify the dataset, make it more manageable, and reduce noise and redundancy in the data.<br>
 
 a. Comparing dependent vairables against success factors<br>
 b. Removing noisy data to analyse data more efficiently<br>
 
-## 4. Numerical Insights
+## <a href="https://github.com/liekzhe/SC1015proj/blob/main/4:%20insights_numerical.ipynb">4. Numerical Insights</a>
 In this section, we will be analysing numerical factors that can influence the success of a movie and determine if it is an infuential factor <br>
 
 Machine learning models used are:<br>
@@ -73,7 +73,7 @@ c. Visualising distribution through swarmplot <br>
 d. Random forest classification <br>
 e. Optimisation through confusion matrix <br>
 
-## 5. Categorical Insights
+## <a href="https://github.com/liekzhe/SC1015proj/blob/main/5:%20insights_categorical.ipynb">5. Categorical Insights</a>
 In this section, we will be analysing categorical factors that can influence the success of a movie and determine if it is an infuential factor <br>
 
 Machine learning models used are:<br>
