@@ -89,10 +89,11 @@ c. Exploring correlation between the variables and the success factors<br>
 
 
 # What we have learnt from this project
-- how to justify the suitability of a model based on readings from classification report
+- How to justify the suitability of a model based on readings from classification report
+- Using newly learnt data processing methods such as one-hot ecoding, pickling of files and pivot table.
 - Factors that have greater influence on the success of the movie are budget and genre
 - Factors that do not really influence success of movie are runtime, release_year and release_month
-- interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset)...
+- Interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset)...
 - Most profitable movie: Rupert Grint(cast), Lucasfilm(production company), Joss Whedon(director), Fantasy(genre)
 - Most popular movie: Chris Pratt(cast), Syncopy(production company), George Miller(director), Science Fiction(genre)
 
