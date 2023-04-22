@@ -33,7 +33,7 @@ Team : 1<br>
 
 **Success definition:** Determined by the profit and popularity of the movie<br>
 
-**Rationale:** To figure out what factors play a significant role in determining the success of a movie.<br>
+**Rationale:** Since there are many factors that go into the production of a movie, it has led us to the problem of finding what factors play a significant role in determining the success of a movie.<br>
 
 
 ## <a href="https://github.com/liekzhe/SC1015proj/blob/main/1:%20data_prep.ipynb">1. Data Cleaning and Preparation</a>
@@ -63,10 +63,6 @@ b. Removing noisy data to analyse data more efficiently<br>
 ## <a href="https://github.com/liekzhe/SC1015proj/blob/main/4:%20insights_numerical.ipynb">4. Numerical Insights</a>
 In this section, we will be analysing numerical factors that can influence the success of a movie and determine if it is an infuential factor <br>
 
-Machine learning models used are:<br>
-Linear regression model <br>
-Random forest classification (utilising confusion matrix)<br>
-
 a. Explored bi-variate relationships with a scatter plot <br>
 b. Plot a linear regression line for numerical dataset against variables of success <br>
 c. Visualising distribution through swarmplot <br>
@@ -76,7 +72,6 @@ e. Optimisation through confusion matrix <br>
 ## <a href="https://github.com/liekzhe/SC1015proj/blob/main/5:%20insights_categorical.ipynb">5. Categorical Insights</a>
 In this section, we will be analysing categorical factors that can influence the success of a movie and determine if it is an infuential factor <br>
 
-Machine learning models used are:<br>
 
 a. Visualising the mean profit and popularity for each variable of the determining factors<br>
 b. Identifying the top 10 variables of each factor<br>
@@ -84,13 +79,13 @@ c. Exploring correlation between the variables and the success factors<br>
 
 
 ## Machine Learning
-*Decision tree*<br>
+*Decision tree (utilising confusion matrix)*<br>
 *Linear Regression*<br>
 
 
 # What we have learnt from this project
 - How to justify the suitability of a model based on readings from classification report
-- Using newly learnt data processing methods such as one-hot ecoding, pickling of files and pivot table.
+- Using newly learnt data processing methods such as one-hot ecoding, pickling of files and pivot table
 - Factors that have greater influence on the success of the movie are budget and genre
 - Factors that do not really influence success of movie are runtime, release_year and release_month
 - Interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset)...
