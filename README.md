@@ -36,7 +36,7 @@ Team : 1<br>
 **Rationale:** To figure out what factors play a significant role in determining the success of a movie.<br>
 
 
-## 1. Data Cleaning and Preparation
+## <a href="https://github.com/liekzhe/SC1015proj/blob/main/1:%20data_prep.ipynb">1. Data Cleaning and Preparation</a>
 In this section of the project, we prepped and cleaned the dataset to help us analyze our data better and also to help us use our data for the purposes of machine learning in the later sections.<br>
 
 a. We have filtered out the *factors* that we identified to have relevance to the *success* of a movie <br>
