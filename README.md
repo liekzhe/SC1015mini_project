@@ -46,7 +46,7 @@ d. One-hot encoding<br>
 e. Pickle data<br>
 
 
-## 2. Exploratory Data Analysis
+## <a href="https://github.com/liekzhe/SC1015proj/blob/main/2.%20EDA.ipynb">2. Exploratory Data Analysis</a>
 Exploratory data analysis (EDA) is an approach to analyzing and summarizing data sets that involves visualizing and exploring the data to gain insights and identify patterns, trends, and outliers.<br>
 
 a. Used box plots, histograms, kde plots in visualising numeric factors: 'budget', 'runtime', 'profit', 'popularity'<br>
