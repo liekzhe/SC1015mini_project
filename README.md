@@ -94,8 +94,8 @@ c. Exploring correlation between the variables and the success factors<br>
 - Factors that have greater influence on the success of the movie are budget and genre
 - Factors that do not really influence success of movie are runtime, release_year and release_month
 - Interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset)...
-- Most profitable movie: Rupert Grint(cast), Lucasfilm(production company), Joss Whedon(director), Fantasy(genre)
-- Most popular movie: Chris Pratt(cast), Syncopy(production company), George Miller(director), Science Fiction(genre)
+- Most profitable movie: Rupert Grint(cast), Lucasfilm(production company), Joss Whedon(director), Fantasy(genre), 92.5mill USD - 99.5mill USD or 164.0 USD - 172.5mill USD(budget)
+- Most popular movie: Chris Pratt(cast), Syncopy(production company), George Miller(director), Science Fiction(genre), 270.0mill USD - 362.5mill USD or 102.5mill USD - 252.5mill USD(budget)
 
 
 
