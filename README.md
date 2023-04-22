@@ -1,6 +1,6 @@
 # SC1015proj
 
-## SC1015: Mini Project - Creating the Ultimate Movie EVER, in the history of mankind
+## SC1015: Mini Project - Determining the most influential factors on the success of a movie
 
 School of Computer Science and Engineering<br>
 Nanyang Technological University<br>
@@ -89,10 +89,13 @@ c. Exploring correlation between the variables and the success factors<br>
 
 
 # What we have learnt from this project
-- interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset),
 - how to justify the suitability of a model based on readings from classification report
 - Factors that have greater influence on the success of the movie are budget and genre
 - Factors that do not really influence success of movie are runtime, release_year and release_month
+- interesting fact we found was that in order to create the ultimate movie of all time (based on our dataset)...
+- Most profitable movie: Rupert Grint(cast), Lucasfilm(production company), Joss Whedon(director), Fantasy(genre)
+- Most popular movie: Chris Pratt(cast), Syncopy(production company), George Miller(director), Science Fiction(genre)
+
 
 
 # References
